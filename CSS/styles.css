@@ -5,6 +5,10 @@ body {
 
 a{
     margin: 30px 20px;
+     color: #11999E;
+}
+a:hover{
+    color: #EAF6F6;
 }
 h1 {
     color: #66BFBF;
@@ -96,10 +100,6 @@ p {
 
 span {
     text-decoration: underline;
-}
-
-a {
-    color: #11999E;
 }
 
 
